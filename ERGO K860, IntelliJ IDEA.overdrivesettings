@@ -9,144 +9,335 @@
 	<key>altid</key>
 	<integer>0</integer>
 	<key>app</key>
-	<string>Any Application</string>
+	<string>IntelliJ IDEA</string>
 	<key>dev</key>
-	<string>Any Mouse</string>
+	<string>ERGO K860</string>
 	<key>exec</key>
-	<string></string>
+	<string>idea</string>
 	<key>hid</key>
 	<dict>
-		<key>0001.0032</key>
-		<dict>
-			<key>+</key>
-			<dict>
-				<key>axis</key>
-				<integer>1</integer>
-				<key>cmd</key>
-				<integer>30</integer>
-				<key>cnt</key>
-				<integer>1</integer>
-			</dict>
-			<key>-</key>
-			<dict>
-				<key>axis</key>
-				<integer>1</integer>
-				<key>cmd</key>
-				<integer>30</integer>
-				<key>cnt</key>
-				<integer>-1</integer>
-			</dict>
-		</dict>
-		<key>0001.0038</key>
-		<dict>
-			<key>+</key>
-			<dict>
-				<key>axis</key>
-				<integer>0</integer>
-				<key>cmd</key>
-				<integer>30</integer>
-				<key>cnt</key>
-				<integer>255</integer>
-			</dict>
-			<key>-</key>
-			<dict>
-				<key>axis</key>
-				<integer>0</integer>
-				<key>cmd</key>
-				<integer>30</integer>
-				<key>cnt</key>
-				<integer>-255</integer>
-			</dict>
-		</dict>
-		<key>0009.0001</key>
+		<key>0007.000E</key>
 		<dict>
 			<key>b</key>
 			<dict>
-				<key>btn</key>
-				<integer>1</integer>
-				<key>clk</key>
-				<integer>0</integer>
 				<key>cmd</key>
-				<integer>10</integer>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>40</integer>
 				<key>mod</key>
-				<integer>0</integer>
+				<integer>256</integer>
 			</dict>
 		</dict>
-		<key>0009.0002</key>
+		<key>0007.000F</key>
 		<dict>
 			<key>b</key>
 			<dict>
-				<key>btn</key>
-				<integer>2</integer>
-				<key>clk</key>
-				<integer>0</integer>
 				<key>cmd</key>
-				<integer>10</integer>
-				<key>mod</key>
-				<integer>0</integer>
+				<integer>15</integer>
+				<key>str</key>
+				<string>Co-authored-by: </string>
+				<key>text</key>
+				<string>Co-authored-by: </string>
 			</dict>
 		</dict>
-		<key>0009.0003</key>
+		<key>0007.0010</key>
 		<dict>
 			<key>b</key>
 			<dict>
-				<key>btn</key>
-				<integer>3</integer>
-				<key>clk</key>
-				<integer>0</integer>
 				<key>cmd</key>
-				<integer>10</integer>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>46</integer>
 				<key>mod</key>
-				<integer>0</integer>
+				<integer>2304</integer>
 			</dict>
 		</dict>
-		<key>0009.0004</key>
+		<key>0007.0019</key>
 		<dict>
 			<key>b</key>
 			<dict>
-				<key>btn</key>
-				<integer>4</integer>
-				<key>clk</key>
-				<integer>0</integer>
 				<key>cmd</key>
-				<integer>10</integer>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>9</integer>
 				<key>mod</key>
-				<integer>0</integer>
+				<integer>2304</integer>
 			</dict>
 		</dict>
-		<key>0009.0005</key>
+		<key>0007.001E</key>
 		<dict>
 			<key>b</key>
 			<dict>
-				<key>btn</key>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>18</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.001F</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>19</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0020</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>20</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0021</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>21</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0022</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>23</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0023</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>22</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0024</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>26</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0025</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>28</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0026</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>25</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0027</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>29</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0033</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>15</integer>
+				<key>str</key>
+				<string>omergk28 &lt;omergk28@gmail.com&gt;</string>
+				<key>text</key>
+				<string>omergk28 &lt;omergk28@gmail.com&gt;</string>
+			</dict>
+		</dict>
+		<key>0007.0034</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>40</integer>
+				<key>mod</key>
+				<integer>2304</integer>
+			</dict>
+		</dict>
+		<key>0007.003A</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>8</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.003B</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>9</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.003C</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>7</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.003D</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>97</integer>
+				<key>mod</key>
+				<integer>512</integer>
+			</dict>
+		</dict>
+		<key>0007.003E</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>97</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.003F</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>117</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0040</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
 				<integer>5</integer>
-				<key>clk</key>
-				<integer>0</integer>
-				<key>cmd</key>
-				<integer>10</integer>
 				<key>mod</key>
-				<integer>0</integer>
+				<integer>4096</integer>
 			</dict>
 		</dict>
-		<key>000C.0238</key>
+		<key>0007.004F</key>
 		<dict>
-			<key>+</key>
+			<key>b</key>
 			<dict>
-				<key>axis</key>
-				<integer>1</integer>
 				<key>cmd</key>
-				<integer>30</integer>
-				<key>cnt</key>
-				<integer>-1</integer>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>6</integer>
+				<key>mod</key>
+				<integer>768</integer>
 			</dict>
-			<key>-</key>
+		</dict>
+		<key>0007.0050</key>
+		<dict>
+			<key>b</key>
 			<dict>
-				<key>axis</key>
-				<integer>1</integer>
 				<key>cmd</key>
-				<integer>30</integer>
-				<key>cnt</key>
-				<integer>1</integer>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>6</integer>
+				<key>mod</key>
+				<integer>256</integer>
+			</dict>
+		</dict>
+		<key>0007.0056</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>78</integer>
+				<key>mod</key>
+				<integer>768</integer>
+			</dict>
+		</dict>
+		<key>0007.0057</key>
+		<dict>
+			<key>b</key>
+			<dict>
+				<key>cmd</key>
+				<integer>11</integer>
+				<key>key</key>
+				<integer>69</integer>
+				<key>mod</key>
+				<integer>768</integer>
 			</dict>
 		</dict>
 	</dict>
@@ -180,16 +371,16 @@
 		<integer>2</integer>
 	</dict>
 	<key>pid</key>
-	<integer>0</integer>
+	<integer>45913</integer>
 	<key>rel</key>
 	<integer>0</integer>
 	<key>sign</key>
 	<string></string>
 	<key>type</key>
-	<string>mouse</string>
+	<string>keyboard</string>
 	<key>vers</key>
 	<integer>1</integer>
 	<key>vid</key>
-	<integer>0</integer>
+	<integer>1133</integer>
 </dict>
 </plist>
