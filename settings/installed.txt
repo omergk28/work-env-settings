@@ -1,0 +1,7 @@
+name.kropp.intellij.makefile
+com.haulmont.jpab
+com.github.ragurney.spotless
+org.jetbrains.plugins.go
+com.intellij.ml.llm
+com.github.lipiridi.spotless-applier
+com.almightyalpaca.intellij.plugins.discord
